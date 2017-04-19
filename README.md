@@ -1,4 +1,7 @@
-# test coverage for  [holderjs (v2.9.4)](http://holderjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-holderjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-holderjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-holderjs.svg)](https://travis-ci.org/npmtest/node-npmtest-holderjs)
+# npmtest-holderjs
+
+#### test coverage for  [holderjs (v2.9.4)](http://holderjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-holderjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-holderjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-holderjs.svg)](https://travis-ci.org/npmtest/node-npmtest-holderjs)
+
 #### Holder uses SVG to render image placeholders entirely in browser.
 
 [![NPM](https://nodei.co/npm/holderjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/holderjs)
