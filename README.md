@@ -1,6 +1,6 @@
 # npmtest-holderjs
 
-#### test coverage for  [holderjs (v2.9.4)](http://holderjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-holderjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-holderjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-holderjs.svg)](https://travis-ci.org/npmtest/node-npmtest-holderjs)
+#### basic test coverage for  [holderjs (v2.9.4)](http://holderjs.com)  [![npm package](https://img.shields.io/npm/v/npmtest-holderjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-holderjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-holderjs.svg)](https://travis-ci.org/npmtest/node-npmtest-holderjs)
 
 #### Holder uses SVG to render image placeholders entirely in browser.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-holderjs/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-holderjs/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-holderjs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-holderjs/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-holderjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-holderjs/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-holderjs/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-holderjs/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-holderjs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-holderjs/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-holderjs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-holderjs/build/coverage.html/index.html)
 
@@ -98,7 +98,8 @@
         "test": "node test/index"
     },
     "summary": "client side image placeholders",
-    "version": "2.9.4"
+    "version": "2.9.4",
+    "bin": {}
 }
 ```
 
